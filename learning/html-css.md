@@ -12,6 +12,7 @@ Liken to constructing a house, one might consider HTML the framing and CSS to be
 
 ##### General Learning:
 
+* [The Ultimate Guide To Learning CSS](https://zendev.com/ultimate-guide-to-learning-css.html) [read]
 * [Absolute Centering in CSS](http://codepen.io/shshaw/full/gEiDt) [read]
 * [codecademy.com HTML & CSS](https://www.codecademy.com/tracks/web) [interact]
 * [CSS Positioning](http://www.pluralsight.com/courses/css-positioning-1834) [watch][$]
